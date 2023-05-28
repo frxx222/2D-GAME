@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\bin\Debug\2D_GAME.exe.config
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\bin\Debug\2D_GAME.exe
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\bin\Debug\2D_GAME.pdb
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\_2D_GAME.Form1.resources
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\_2D_GAME.Properties.Resources.resources
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.exe
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\2D_GAME.pdb
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\_2D_GAME.StartForm.resources
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\_2D_GAME.Level2.resources
+C:\Users\admin\Desktop\My_2D_game\2D_GAME\2D_GAME\obj\Debug\_2D_GAME.Congrats.resources
